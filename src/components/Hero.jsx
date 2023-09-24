@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
     <div className="py-10">
-      <div className="w-full h-[500px] rounded-md bg-[url('./back.jpg')] bg-cover">
+      <div className="w-[100%] h-[500px] rounded-md hero bg-cover ">
         <div className="w-full md:w-4/5 lg:w-1/2 2xl:w-1/3 bg-gradient-to-r from-gray-600 h-full flex flex-col justify-center space-y-5 p-5 text-white rounded-md">
           <h1 className="text-3xl md:text-5xl font-bold">
             Explore The World With Us

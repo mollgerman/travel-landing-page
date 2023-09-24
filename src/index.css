@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.hero{
+  background: url("../public/back.webp") no-repeat;
+  background-size: cover;
+  background-position: center;
+}
